@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1660289961775,
+  "timestamp": 1660290133956,
   "index": "https://philipp427.github.io/angular-pwa/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://philipp427.github.io/angular-pwa/favicon.ico",
         "https://philipp427.github.io/angular-pwa/index.html",
-        "https://philipp427.github.io/angular-pwa/main.4ee79881f104e917.js",
+        "https://philipp427.github.io/angular-pwa/main.6d2bc31cd2531b54.js",
         "https://philipp427.github.io/angular-pwa/manifest.webmanifest",
         "https://philipp427.github.io/angular-pwa/polyfills.450c9b2831176457.js",
         "https://philipp427.github.io/angular-pwa/runtime.64a4c478f89723db.js",
@@ -52,8 +52,8 @@
     "https://philipp427.github.io/angular-pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://philipp427.github.io/angular-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://philipp427.github.io/angular-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://philipp427.github.io/angular-pwa/index.html": "ff0c5f96b73974e14f27190a4ec05579d0d20613",
-    "https://philipp427.github.io/angular-pwa/main.4ee79881f104e917.js": "d1d44ddbda51a22d4e8fd88c10afa7769c9adbac",
+    "https://philipp427.github.io/angular-pwa/index.html": "5de759443c7307908ab26afce70335750b9cfc59",
+    "https://philipp427.github.io/angular-pwa/main.6d2bc31cd2531b54.js": "5326aca8fece353e77a9e764cc78245bbaafb991",
     "https://philipp427.github.io/angular-pwa/manifest.webmanifest": "647db4fba4be264d65d1cbc9d3c6606d05610dcf",
     "https://philipp427.github.io/angular-pwa/polyfills.450c9b2831176457.js": "7c3ac593c7c18e883209c040210bf630fe6531b9",
     "https://philipp427.github.io/angular-pwa/runtime.64a4c478f89723db.js": "49fa9038357f3db0130e1219265c8b5582c37349",
